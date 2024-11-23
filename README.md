@@ -1,7 +1,9 @@
 **Name:** PARTH BHARDWAJ
 
 **Company:** Codtech It solution
+
 **Domain:** Java Programming
+
 **Duration:** nov to dec 2024
 
 ## Overview of the Project
